@@ -71,7 +71,7 @@ var people = [
    "phone": "480-644-3772",
    "email": "councilmember.finter@Mesaaz.gov",
    "website_url": "http://www.mesaaz.gov/council/finter/",
-   "photo_url": ""
+   "photo_url": "https://techieshark.github.io/council-info/img/Alex_Finter.jpg"
  },
  {
    "title": "City Councilmember",
