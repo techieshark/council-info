@@ -21,7 +21,7 @@ var people = [
    "phone": "480-644-2388",
    "email": "mayor@Mesaaz.gov",
    "website_url": "http://www.mesaaz.gov/mayor/",
-   "photo_url": "https://raw.githubusercontent.com/techieshark/council-info/master/img/John_Giles.jpg"
+   "photo_url": "https://techieshark.github.io/council-info/img/John_Giles.jpg"
  },
  {
    "title": "City Councilmember",
@@ -46,7 +46,7 @@ var people = [
    "phone": "480-644-4002",
    "email": "District1@mesaaz.gov",
    "website_url": "http://www.mesaaz.gov/council/richins/default.aspx",
-   "photo_url": "https://raw.githubusercontent.com/techieshark/council-info/master/img/Dave_Richins.jpg"
+   "photo_url": "https://techieshark.github.io/council-info/img/Dave_Richins.jpg"
  },
  {
    "title": "City Councilmember",
@@ -96,7 +96,7 @@ var people = [
    "phone": "480-644-3003",
    "email": "District3@mesaaz.gov",
    "website_url": "http://www.mesaaz.gov/council/kavanaugh/default.aspx",
-   "photo_url": "https://raw.githubusercontent.com/techieshark/council-info/master/img/Dennis_Kavanaugh.jpg"
+   "photo_url": "https://techieshark.github.io/council-info/img/Dennis_Kavanaugh.jpg"
  },
  {
    "title": "City Councilmember",
@@ -121,7 +121,7 @@ var people = [
    "phone": "480-644- 3004",
    "email": "councilmember.glover@Mesaaz.gov",
    "website_url": "http://www.mesaaz.gov/council/glover/",
-   "photo_url": "https://raw.githubusercontent.com/techieshark/council-info/master/img/Chris_Glover.jpg"
+   "photo_url": "https://techieshark.github.io/council-info/img/Chris_Glover.jpg"
  },
  {
    "title": "City Councilmember",
@@ -146,7 +146,7 @@ var people = [
    "phone": "480-644-3771",
    "email": "councilmember.luna@Mesaaz.gov",
    "website_url": "http://www.mesaaz.gov/council/luna/default.aspx",
-   "photo_url": "https://raw.githubusercontent.com/techieshark/council-info/master/img/David_Luna.jpg"
+   "photo_url": "https://techieshark.github.io/council-info/img/David_Luna.jpg"
  },
  {
    "title": "City Councilmember",
@@ -171,7 +171,7 @@ var people = [
    "phone": "480-644-4003",
    "email": "councilmember.somers@Mesaaz.gov",
    "website_url": "http://www.mesaaz.gov/council/somers/default.aspx",
-   "photo_url": "https://raw.githubusercontent.com/techieshark/council-info/master/img/Scott_Somers.jpg"
+   "photo_url": "https://techieshark.github.io/council-info/img/Scott_Somers.jpg"
  },
  {
    "title": "City Manager",
@@ -186,6 +186,6 @@ var people = [
    "phone": "480-644-2066",
    "email": "COMmanager@Mesaaz.gov",
    "website_url": "http://www.mesaaz.gov/mayor/",
-   "photo_url": "https://raw.githubusercontent.com/techieshark/council-info/master/img/Chris_Brady.jpg"
+   "photo_url": "https://techieshark.github.io/council-info/img/Chris_Brady.jpg"
   },
 ]
