@@ -185,8 +185,7 @@ var people = [
    "social": [
      {
        "platform": "twitter",
-       "name": "MesaCityManager",
-       "widget": "465941964072828928"
+       "name": "MesaCityManager"
      }
     ],
    "phone": "480-644-2066",
