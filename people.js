@@ -5,7 +5,7 @@ var people = [
    "name": {
      "first": "John ",
      "last": "Giles",
-     "fullname": "John  Giles"
+     "fullname": "John P Giles"
    },
    "bio": "John Giles was elected the 40th Mayor of Mesa, Arizona in August, 2014.   Giles earned degrees from Brigham Young University in Political Science and Arizona State University's Sandra Day O'Connor College of Law.  He has managed  his own law firm in downtown Mesa for the past 20 years.  In 1996, Giles was elected to the Mesa City Council and from 1998 to 2000,  he served as Vice Mayor.  Mayor Giles is committed to leading the way to build  upon Mesa's strengths in economic development, education, community livability,  smart growth and accessibility and participation in City government.",
    "social": [
