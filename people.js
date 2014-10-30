@@ -184,6 +184,10 @@ var people = [
    "bio": "The City Manager, as the City's chief administrative officer, administers the functions of the City in accordance with the City Charter, Ordinances, and established policies.  The City Manager’s Office provides centralized direction and leadership for the effective administration and operations of all municipal services for the City of Mesa as directed by the City Council and serves as the focal point for the management of the City staff departments.  The City Manager’s Office prepares and submits to the City Council a balanced budget of municipal services in adherence with the policy goals and objectives by the City Council while employing such managerial techniques as needed to assure efficient and effective utilization of the City’s resources.",
    "social": [
      {
+       "platform": "facebook",
+       "name": "CityofMesa"
+     },
+     {
        "platform": "twitter",
        "name": "MesaCityManager"
      }
