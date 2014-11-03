@@ -186,10 +186,6 @@ var people = [
      {
        "platform": "facebook",
        "name": "CityofMesa"
-     },
-     {
-       "platform": "twitter",
-       "name": "MesaCityManager"
      }
     ],
    "phone": "480-644-2066",
