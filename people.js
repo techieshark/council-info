@@ -160,7 +160,7 @@ var people = [
    "social": [
      {
        "platform": "facebook",
-       "name": "CouncilmemberScottSomers"
+       "name": "DrScottCSomers"
      },
      {
        "platform": "twitter",
