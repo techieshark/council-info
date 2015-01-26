@@ -152,15 +152,15 @@ var people = [
    "title": "City Councilmember",
    "district": "6",
    "name": {
-     "first": "Scott",
-     "last": "Somers",
-     "fullname": "Scott Somers"
+     "first": "Kevin",
+     "last": "Thompson",
+     "fullname": "Kevin Thompson"
    },
-   "bio": "Scott Somers was first elected to represent District 6 on the Mesa City Council in 2006 and was re-elected in 2010. He spent two years serving Mesa as Vice Mayor from 2011 to 2013. Somers has worked to make District 6 a hub for economic development in Mesa, with companies like Apple, Able Engineering, Bridgestone America, CMC Steel and Matheson Gas calling the area home. Somers serves as the Chair of the ValleyMetro Regional Public Transportation Authority and is the Chairman of the NLC Public Safety & Crime Prevention committee. He represents the interests of cities on the National EMS Advisory Council (NEMSAC), the National Homeland Security Consortium, and FirstNet's Public Safety Advisory Committee.  Councilmember Somers earned a Ph.D. in public administration from Arizona State University. He holds Bachelor of Applied Science and Master of Science in Technology degrees from the ASU Polytechnic campus.",
+   "bio": "Elected to the Mesa City Council in August 2014, Councilmember Kevin Thompson began his first term representing District 6 in January of 2015. His term on the Council runs until January of 2019.  Thompson is very active in the community, serving on the Board of Directors for the Mesa Chamber of Commerce and the Centers for Habilitation. He was a member of the Military and Veterans Affairs Committee at the Arizona Chamber of Commerce, is the past chair of the Government Affairs Committee for the American Public Works Association and the chair of the National Utility Contractors Association. He is also the secretary of the Tonto Recreation Alliance and is a 2012 graduate of the Mesa Leadership Training and Development program.  A veteran of the United States Air Force, Thompson spent eight years in the service, including serving in Operation Desert Storm. He earned a bachelor’s degree in Mechanical Engineering from the University of Nevada-Las Vegas. Kevin and his wife Donna have two children.",
    "social": [
      {
        "platform": "facebook",
-       "name": "DrScottCSomers"
+       "name": "CouncilmemberKevinThompson"
      },
      {
        "platform": "twitter",
@@ -169,9 +169,9 @@ var people = [
      }
    ],
    "phone": "480-644-4003",
-   "email": "councilmember.somers@Mesaaz.gov",
-   "website_url": "http://www.mesaaz.gov/council/somers/default.aspx",
-   "photo_url": "https://techieshark.github.io/council-info/img/Scott_Somers_sm.jpg"
+   "email": "councilmember.thompson@Mesaaz.gov",
+   "website_url": "http://www.mesaaz.gov/council/thompson/default.aspx",
+   "photo_url": "https://techieshark.github.io/council-info/img/Kevin_Thompson_sm.jpg"
  },
  {
    "title": "City Manager",
